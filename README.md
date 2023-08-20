@@ -9,7 +9,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithbarshan&show_icons=true&locale=en" alt="codewithbarshan" /></p>
 
-ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ 
+**ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ**
 
 <p align="left">
 <a href="https://twitter.com/BarshanMukherj4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BarshanMukherj4" height="30" width="40" /></a>
