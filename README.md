@@ -47,6 +47,6 @@ print(monty_python.gif)
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Barshan Mukherjee" height="30" width="40" />
   </a>
   <a href="https://bio.link/barshanmukherjee" target="blank">
-    <img align="center" src="https://cdn.dribbble.com/users/8121946/screenshots/15795739/media/4ff2f4d13f3a0b988f226ec66021ac81.png" alt="Barshan Mukherjee" height="30" width="40" />
+    <img align="center" src="https://www.flaticon.com/free-icon/portfolio_943026?term=portfolio&page=1&position=17&origin=search&related_id=943026" height="30" width="40" />
   </a>
 </p>
