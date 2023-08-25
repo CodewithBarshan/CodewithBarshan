@@ -31,6 +31,8 @@ print(monty_python.gif)
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git" width="40" height="40"/>
   </a>
+  ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithbarshan&show_icons=true&locale=en&layout=compact" alt="codewithbarshan" /></p>
