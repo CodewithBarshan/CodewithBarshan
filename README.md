@@ -1,10 +1,10 @@
-(https://github.com/CodewithBarshan/CodewithBarshan/assets/104667623/3a9a3870-83fe-4321-84bf-d5d2a01fcc8f)<h1 align="center">Hello, World <img src='https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif' alt="Hi" style="width: 30px;margin-left: 10px;"> I'm Barshan</h1>
+<h1 align="center">Hello, World <img src='https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif' alt="Hi" style="width: 30px;margin-left: 10px;"> I'm Barshan</h1>
 
 <h3 align="center">Python Developer</h3>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; A Python Developer on a journey of turning concepts into reality through code. 🐍
-- 🎓 &nbsp; 🔧 Mechanical Engineer by degree, 💻 coding enthusiast at heart.
+- 🔧 &nbsp; Mechanical Engineer by degree, 💻 coding enthusiast at heart.
 - ❓ &nbsp; You can Ask me about Python,Django and other Backend Development Technologies.
 - 📚 &nbsp; I’m currently learning Frontend Technologies.
 - 🌱 &nbsp; Enthusiast  in Full Stack Web Devlopment.
