@@ -28,6 +28,9 @@ print(monty_python.gif)
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
     <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="mysql" width="40" height="40"/>
   </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git" width="40" height="40"/>
+  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithbarshan&show_icons=true&locale=en&layout=compact" alt="codewithbarshan" /></p>
