@@ -1,13 +1,15 @@
-<h1 align="center">Hello, World <img src='https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif' alt="Hi" style="width: 30px;margin-left: 10px;"> I'm Barshan</h1>
+![image](https://github.com/CodewithBarshan/CodewithBarshan/assets/104667623/3a9a3870-83fe-4321-84bf-d5d2a01fcc8f)<h1 align="center">Hello, World <img src='https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif' alt="Hi" style="width: 30px;margin-left: 10px;"> I'm Barshan</h1>
 
 <h3 align="center">Python Developer</h3>
+<h3> 👨🏻‍💻 About Me </h3>
 
-```python
-# I love Python
-print(monty_python.gif)
-```
-
-<img src="https://github.com/federicoazzu/federicoazzu/blob/main/monty_python.gif" />
+- 🔭 &nbsp; A Python Developer on a journey of turning concepts into reality through code. 🐍
+- 🎓 &nbsp; 🔧 Mechanical Engineer by degree, 💻 coding enthusiast at heart.
+- ❓ &nbsp; You can Ask me about Python,Django and other Backend Development Technologies.
+- 📚 &nbsp; I’m currently learning Frontend Technologies.
+- 🌱 &nbsp; Enthusiast  in Full Stack Web Devlopment.
+- ✍️ &nbsp; Eager to continue learning and contribute my skills to the ever-evolving Tech Landscape .
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
 <h3 align="left">Languages and Tools</h3>
@@ -43,7 +45,7 @@ print(monty_python.gif)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithbarshan&show_icons=true&locale=en" alt="codewithbarshan" /></p>
 
-**Contact Me**
+**Connect with Me**
 
 <p align="left">
     <a href="https://www.linkedin.com/in/barshan-mukherjee" target="blank">
