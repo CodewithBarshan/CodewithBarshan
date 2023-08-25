@@ -1,56 +1,58 @@
-<img align="center" src="https://raw.githubusercontent.com/saviomartin/saviomartin/master/assets/banner.gif"/>
+<h1 align="center">Hello, World <img src='https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif' alt="Hi" style="width: 30px;margin-left: 10px;"> I'm Barshan</h1>
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
+<h3 align="center">Python Developer</h3>
 
-- 🔭 I’m currently working on NodeJs
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Frontend
-- 📫 How to reach me: saviomartin2020@gmail.com
-- 😄 My website: https://savio.works/
-- ⚡ Fun fact: I'm comming to teen
+```python
+# I love Python
+print(monty_python.gif)
+```
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/connect.png?raw=true"/>
-
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/instagram%20@teen_developer-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/facebook%20@saviomartin.1694-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-- <a href="https://www.instagram.com/teen_developer/"><img src="https://img.shields.io/badge/twitter%20@saviomartin3-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-- <a href="https://savio.works/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20savio.works-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
-
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
-
-![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![Sass](https://img.shields.io/badge/sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-<br>
-![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
-![materializecss](https://img.shields.io/badge/Materialize%20css-grey?style=for-the-badge&logo=google&logoColor=white&labelColor=8E2DE2)
-![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=8E2DE2)
-![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
-<br>
-![mongodb](https://img.shields.io/badge/-mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=8E2DE2)
-![firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-<br>
-![python](https://img.shields.io/badge/-python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=8E2DE2)
-![jquery](https://img.shields.io/badge/-jquery-grey?style=for-the-badge&logo=jquery&logoColor=white&labelColor=8E2DE2)
-![MarkDown](https://img.shields.io/badge/-Markdown-grey?style=for-the-badge&logo=Markdown&logoColor=white&labelColor=8E2DE2)
-![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+<img src="https://github.com/federicoazzu/federicoazzu/blob/main/monty_python.gif" />
 
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/git.png?raw=true"/>
+<h3 align="left">Languages and Tools</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=saviomartin&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saviomartin&theme=radical&title_color=8E2DE2&text_color=fff)
-
-<img src="https://github.com/saviomartin/saviomartin/blob/master/assets/repo.png?raw=true">
-
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=sprintnote&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=saviomartin&repo=covid-chatbot&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=saviomartin" id="counter">
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+  </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="Git" width="40" height="40"/>
+  </a>
+  ![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 </p>
-⭐️ From [saviomartin](https://github.com/saviomartin)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithbarshan&show_icons=true&locale=en&layout=compact" alt="codewithbarshan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithbarshan&show_icons=true&locale=en" alt="codewithbarshan" /></p>
+
+**Contact Me**
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/barshan-mukherjee" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barshan-mukherjee" height="30" width="40" />
+  </a>
+   <a href="https://bio.link/barshanmukherjee" target="blank">
+    <img align="center" src="https://cdn.dribbble.com/users/8121946/screenshots/15795739/media/4ff2f4d13f3a0b988f226ec66021ac81.png?resize=800x600&vertical=center" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/BarshanMukherj4" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BarshanMukherj4" height="30" width="40" />
+  </a>
+  
+  <a href="https://www.instagram.com/barshan__mukherjee/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Barshan Mukherjee" height="30" width="40" />
+  </a>
+</p>
