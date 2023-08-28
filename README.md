@@ -14,16 +14,24 @@
 
 <h3 align="left">✨🛠️Languages and Tools🛠️✨</h3>
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![DJango](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![MySql](https://img.shields.io/badge/MySql-07405E?style=flat&logo=mysql&logoColor=white)
+![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithbarshan&show_icons=true&locale=en&layout=compact" alt="codewithbarshan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithbarshan&show_icons=true&locale=en" alt="codewithbarshan" /></p>
 
-**Connect with Me**
+**Let's Connect**
 
 <p align="left">
     <a href="https://www.linkedin.com/in/barshan-mukherjee" target="blank">
