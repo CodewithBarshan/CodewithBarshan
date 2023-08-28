@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithbarshan&show_icons=true&locale=en" alt="codewithbarshan" /></p>
 
-**Let's Connect**
+<h3> 🤝🏻 Let's Connect </h3>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/barshan-mukherjee" target="blank">
