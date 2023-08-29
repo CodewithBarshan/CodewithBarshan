@@ -31,20 +31,26 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithbarshan&show_icons=true&locale=en" alt="codewithbarshan" /></p>
 
-<h3> 🤝🏻 Let's Connect </h3>
-
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+<p align="center">
+ <a href="https://www.linkedin.com/in/barshan-mukherjee" target="blank">
+  <img align="center" alt="Barshan Mukherjee" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://bio.link/barshanmukherjee" target="blank">
+     <img align="center" src="https://cdn.dribbble.com/users/8121946/screenshots/15795739/media/4ff2f4d13f3a0b988f226ec66021ac81.png?resize=800x600&vertical=center"
+         height="30" width="40" />
+  </a>   
+ <a href="https://instagram.com/barshan__mukherjee?igshid=OTk0YzhjMDVlZA==" target="blank">
+  <img align="center" alt="barshan_mukherjee" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://twitter.com/BarshanMukherj4" target="blank">
+  <img align="center" alt="Barshan Mukherjee" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+ </a>
 <p align="left">
-    <a href="https://www.linkedin.com/in/barshan-mukherjee" target="blank">
+    <a href="" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barshan-mukherjee" height="30" width="40" />
   </a>
-   <a href="https://bio.link/barshanmukherjee" target="blank">
-    <img align="center" src="https://cdn.dribbble.com/users/8121946/screenshots/15795739/media/4ff2f4d13f3a0b988f226ec66021ac81.png?resize=800x600&vertical=center" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/BarshanMukherj4" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="BarshanMukherj4" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.instagram.com/barshan__mukherjee/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Barshan Mukherjee" height="30" width="40" />
-  </a>
+
 </p>
