@@ -48,9 +48,3 @@
  <a href="https://twitter.com/BarshanMukherj4" target="blank">
   <img align="center" alt="Barshan Mukherjee" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
  </a>
-<p align="left">
-    <a href="" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barshan-mukherjee" height="30" width="40" />
-  </a>
-
-</p>
