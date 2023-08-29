@@ -51,6 +51,8 @@
   <br/>
   Thanks for stopping by 😁<br/>
 </p>
+<br/>
+  <br/>
 <p 
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS" />
@@ -58,6 +60,7 @@
 </p>
 <br/>
 <p>
+ <br/>
 Visit my profile and give a ⭐️ if you like it</p>
 
 ⭐️ From [CodewithBarshan](https://github.com/CodewithBarshan)
