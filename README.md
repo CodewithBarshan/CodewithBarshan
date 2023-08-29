@@ -53,7 +53,6 @@
   Thanks for stopping by 😁<br/>
 </p>
 <br/>
-  <br/>
 <p 
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS" />
