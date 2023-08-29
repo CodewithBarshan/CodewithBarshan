@@ -40,7 +40,7 @@
  </a>
  <a href="https://bio.link/barshanmukherjee" target="blank">
      <img align="center" src="https://cdn.dribbble.com/users/8121946/screenshots/15795739/media/4ff2f4d13f3a0b988f226ec66021ac81.png?resize=800x600&vertical=center"
-         height="30" width="40" />
+         height="30" width="40" /> &nbsp;
   </a>   
  <a href="https://instagram.com/barshan__mukherjee?igshid=OTk0YzhjMDVlZA==" target="blank">
   <img align="center" alt="barshan_mukherjee" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
