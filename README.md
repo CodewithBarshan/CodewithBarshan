@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World <img src='https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif' alt="Hi" style="width: 30px;margin-left: 10px;"> I'm Barshan</h1>
 
-<h3 align="center" color="teal">Full Stack Python Developer</h3>
+<h3 align="center" style="color: teal;">Full Stack Python Developer</h3>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; A Python Developer on a journey of turning concepts into reality through code. 🐍
